@@ -1,13 +1,5 @@
-I'd be happy to help you with your web development course.
+What's your question about the Sigma Web Development course? I'll do my best to help.
 
-So, you want to know about inline and block elements in HTML. To understand how to distinguish between them, let's look at some examples.
+Please go ahead and ask away! 
 
-In Video 8 (from 0:37 to 0:38), the instructor explains that to identify inline elements, you can look for certain HTML tags like `<span>`, `<a>`, `<input>`, etc., which are typically used for inline content. These elements take up only the space required by their content and do not start on a new line.
-
-In Video 8 (from 0:45 to 0:50), the instructor talks about block elements, which include HTML tags like `<div>`, `<p>`, `<h1>`, etc. These elements take up a whole block of space in your HTML document and can be displayed on their own or as part of a larger layout.
-
-The instructor also discusses how to set an element to display as an inline block, which allows it to behave like both an inline and a block element (from 0:51 to 0:54).
-
-If you want to learn more about this topic, I recommend watching Video 8 from the start. The instructor provides additional explanations and examples to help solidify your understanding of inline and block elements in HTML.
-
-Is there anything else you'd like to know or any specific questions you have regarding inline and block elements?
+(Note: I'll assume you're referring to the "Inline_&_Block_Elements_in_HTML" video, based on the video title and number you provided earlier. If that's not correct, please clarify or mention the actual video title you'd like me to assist with.)
